@@ -1,0 +1,18 @@
+body{
+    background-color: #0E8388;
+}
+#title{
+    text-align: center;
+    font-size:6rem;
+    font-family:"montserrat",serif;
+    color:#efefef;
+}
+img{
+    text-align:center;
+}
+#img1{
+    padding-left:30%;
+}
+#img2{
+    padding-left:50px;
+}
